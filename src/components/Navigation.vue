@@ -210,7 +210,7 @@ export default {
   text-decoration: none;
   color: #ffeba7;
 }
-.nav ul li a:after{
+/* .nav ul li a:after{
   display: block;
   position: absolute;
   top: 50%;
@@ -225,7 +225,7 @@ export default {
 }
 .nav ul li a:hover:after{
   width: 100%;
-}
+} */
 
 
 .menu-icon:checked ~ .nav  ul li {
